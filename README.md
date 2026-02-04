@@ -1,17 +1,28 @@
-#Cloth Mesh System V2
+# Cloth Mesh System V2
 Simple cloth simulation system for Its Magic Engine 2.0
 
-#Installation
-Download the .zip file containing the files and import it into your project, or copy the system/ folder to your project in Its Magic.
+## Installation
+Download the .zip file containing the files and import it into your project, or copy the 'system/' folder to your project in Its Magic 2.0.
+
 Make sure to reinstall the libraries to ensure the scripts will compile.
-Read "HOW_TO_USE" for a more detailed (or almost detailed) tutorial.
-Resources
+Read "HOW_TO_USE" for a more detailed tutorial.
+
+# Resources
 Wind
 Simple collisions
 Real-time mesh simulations
-A lot of variables and configurations
-#Simple documentation
-See HOW_TO_USE for more details on functions and variables.
 
-#NOTE :
-This system is version V1, and it was made a long time ago; it may not be as good or functional.
+# new Resources
+Rigidbodys collision based
+new system using XPBD
+more config variables 
+simple metal-plastic system.
+
+
+
+# detailed documentation
+See HOW_TO_USE for more details on functions and all variables.
+
+# NOTE :
+This system is version V2, made for itsmagic 2.0, in the same way that version V1 is made for itsmagic 1.0.
+ 
