@@ -13,7 +13,7 @@ Simple cloth simulation system for Its Magic Engine 2.0
 - Simple collisions
 - Real-time mesh simulations
 
-# new Resources
+## new Resources
 - Rigidbodys collision based
 - new system using XPBD
 - more config variables 
@@ -21,9 +21,9 @@ Simple cloth simulation system for Its Magic Engine 2.0
 
 
 
-# detailed documentation
+## detailed documentation
 See HOW_TO_USE for more details on functions and all variables.
 
-# NOTE :
+## NOTE :
 This system is version V2, made for itsmagic 2.0, in the same way that version V1 is made for itsmagic 1.0.
  
