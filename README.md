@@ -2,21 +2,21 @@
 Simple cloth simulation system for Its Magic Engine 2.0
 
 ## Installation
-Download the .zip file containing the files and import it into your project, or copy the 'system/' folder to your project in Its Magic 2.0.
+1.Download the .zip file containing the files and import it into your project, or copy the 'system/' folder to your project in Its Magic 2.0.
 
-Make sure to reinstall the libraries to ensure the scripts will compile.
+2.Make sure to reinstall the libraries to ensure the scripts will compile.
 Read "HOW_TO_USE" for a more detailed tutorial.
 
-# Resources
-Wind
-Simple collisions
-Real-time mesh simulations
+## Resources
+- Wind
+- Simple collisions
+- Real-time mesh simulations
 
 # new Resources
-Rigidbodys collision based
-new system using XPBD
-more config variables 
-simple metal-plastic system.
+- Rigidbodys collision based
+- new system using XPBD
+- more config variables 
+- simple metal-plastic system.
 
 
 
