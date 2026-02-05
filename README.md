@@ -2,7 +2,7 @@
 Simple cloth simulation system for Its Magic Engine 2.0
 
 ## Installation
-1.Download the `.zip` file containing the files and import it into your project, or copy the `system/` folder to your project in Its Magic 2.0.
+1.Download the `.zip` file containing the files and import it into your project, or copy the `ClothSystem-V2/` folder to your project in Its Magic 2.0.
 
 2.Make sure to reinstall the libraries to ensure the scripts will compile.
 
