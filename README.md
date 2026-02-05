@@ -1,7 +1,7 @@
 # Cloth Mesh System V2
 Simple cloth simulation system for Its Magic Engine 2.0
 
-v1 link:` https://github.com/Vitg1/Mesh-Simulation-System-v1`
+v1 link:https://github.com/Vitg1/Mesh-Simulation-System-v1
 
 ## Installation
 1.Download the `.zip` file containing the files and import it into your project, or copy the `ClothSystem-V2/` folder to your project in Its Magic 2.0.
