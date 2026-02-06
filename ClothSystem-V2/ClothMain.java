@@ -57,7 +57,7 @@ public float turbulence = 1.2f;
 @Order(idx = 42)
 public boolean collideMeshes;
 
-private boolean noCollideMeshes=collideMeshes;
+private boolean noCollideMeshes=!collideMeshes;
 
 @Order(idx = 23) @ShowIf("collideMeshes")
 public boolean useAdvancedBendings;
